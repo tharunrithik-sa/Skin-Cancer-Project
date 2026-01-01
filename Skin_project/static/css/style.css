@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* small card shadow & rounding */
+.card {
+    border-radius: 10px;
+}
+
+/* progress bar rounded */
+.progress {
+    border-radius: 10px;
+    background-color: #e9ecef;
+}
+.progress-bar {
+    border-radius: 10px;
+}
